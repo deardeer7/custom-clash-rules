@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,sub.maoxiongnet.com
 DOMAIN-SUFFIX,api.dler.io
 DOMAIN-SUFFIX,v1.mk
 
+# proxy
+DOMAIN-SUFFIX,fsm.name
+
 # claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
