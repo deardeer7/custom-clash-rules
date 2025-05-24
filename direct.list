@@ -1,10 +1,7 @@
 # direct
 # intranet
-DOMAIN-SUFFIX,zhejianglab.com
-DOMAIN-SUFFIX,deardeer.fun
-DOMAIN-SUFFIX,czlx.email
-DOMAIN-SUFFIX,chenzl.fun
 DOMAIN-SUFFIX,009147.xyz
+DOMAIN-SUFFIX,888629.xyz
 
 # scholar
 DOMAIN-SUFFIX,acm.org
@@ -64,3 +61,6 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
+
+# pubmed
+DOMAIN-SUFFIX,nih.gov
