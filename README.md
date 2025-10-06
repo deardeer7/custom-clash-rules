@@ -12,8 +12,11 @@
 1. 以我常用的“[ACL4SSR在线订阅转换](https://acl4ssr-sub.github.io/)”为例
 2. 点击“进阶模式”
 3. 导入订阅链接（机场、自建的），参考我的机场：[机场测评](airport.md)
-4. 远程配置把这个仓库里面的“.ini”结尾的文件[地址](https://raw.githubusercontent.com/deardeer7/custom-clash-rules/main/custom%20rules.ini)填上去
-5. 转换导入clash即可~
+4. 远程配置把这个仓库里面的“.ini”结尾的文件填上去：
+```text
+https://raw.githubusercontent.com/deardeer7/custom-clash-rules/refs/heads/main/custom%20rules.ini
+```
+6. 转换导入clash即可~
 
 </details>
 
@@ -29,13 +32,25 @@
 
 </details>
 
+[机场测评](airport.md)
+
+[Flclash](https://github.com/chen08209/FlClash)：
+
+<img width="836" height="492" alt="image" src="https://github.com/user-attachments/assets/a44aaedd-b548-4050-931f-0743a39aff9a" />
+
 ## 注意
 
 - 订阅转换后**导入**不成功时，可能是用的机场屏蔽了那个转换网站，可尝试换个转换网址。
 - 订阅转换导入后，转换结果不对时，可能是生成类型有问题，可尝试选择 `自动判断客户端`。
+- 订阅转换后，无法下载导入？
+  - 尽量选择长链接，直接导入；
+  - 可能是后端服务器挂了，尝试更换一个后端，重新转换。
+- 订阅转换后，分组显示不对：远程地址填写有问题，重新尝试。
 
 <details>
 <summary>更新日志</summary>
+
+2025/10/6 更新README
 
 2025/5/24 加入pubmed直连，更新README
 
