@@ -2,7 +2,7 @@
 
 ## 介绍
 
-自己经常用的分流网站都没有添加bing、openAI的规则，为了方便自己使用bing和chatGPT，新增了上述2者的分流规则，除此外，使用过程中逐步更新了学术网站等内容。
+聚合多✈订阅+自定义分流规则。
 
 ## 使用方法
 
@@ -50,19 +50,23 @@ https://raw.githubusercontent.com/deardeer7/custom-clash-rules/refs/heads/main/c
 <details>
 <summary>更新日志</summary>
 
-2025/10/6 更新README
+2025/11/26 大版本更新，精简代理分组，聚合多订阅。
 
-2025/5/24 加入pubmed直连，更新README
+2025/11/25 存档[旧版本](https://github.com/deardeer7/custom-clash-rules/releases/tag/v1.5)。
 
-2024/5/18 重命名订阅类别为 `限量`和`限时`，注意节点分类规则仅仅适用于[我的机场](airport.md)
+2025/10/6 更新README。
 
-2024/3/18 更新节点分组名称，如香港 -> 小香港，美国 -> 小美国等，其他节点分组名称不变
+2025/5/24 加入pubmed直连，更新README。
 
-2024/3/14 更新GPT节点规则，更新direct规则
+2024/5/18 重命名订阅类别为 `限量`和`限时`，注意节点分类规则仅仅适用于[我的机场](airport.md)。
 
-2023/12/27 调整md内容，目前发现肥羊订阅疑似存在：转换的订阅在更新时无法加载本仓库新加的rule，todo
+2024/3/18 更新节点分组名称，如香港 -> 小香港，美国 -> 小美国等，其他节点分组名称不变。
 
-2023/11/17 更新：恢复bing分流
+2024/3/14 更新GPT节点规则，更新direct规则。
+
+2023/12/27 调整md内容，目前发现肥羊订阅疑似存在：转换的订阅在更新时无法加载本仓库新加的rule，todo。
+
+2023/11/17 更新：恢复bing分流。
 
 2023/11/15 更新：ACL4SSR订阅转换疑似出现bug，自动更新后丢失自定义规则，更换订阅转换网站；针对魔戒GPT节点更新rule。
 
@@ -70,4 +74,4 @@ https://raw.githubusercontent.com/deardeer7/custom-clash-rules/refs/heads/main/c
 
 2023/9/4 更新：新增Claude AI规则（分流到除HK外的proxies），其他更规则更新。
 
-2023/6/26 更新：合并两个机场订阅定制，精简规则
+2023/6/26 更新：合并两个机场订阅定制，精简规则。
