@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/deardeer7/custom-clash-rules/refs/heads/main/c
   - 尽量选择长链接，直接导入；
   - 可能是后端服务器挂了，尝试更换一个后端，重新转换。
 - 订阅转换后，分组显示不对：远程地址填写有问题，重新尝试。
+- 订阅转换导入成功，使用一段时间后/更新后，一些机场节点消失，机场订阅链接更换了/失效了，重新转换即可。
 
 <details>
 <summary>更新日志</summary>
